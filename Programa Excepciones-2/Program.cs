@@ -26,6 +26,7 @@ namespace Programa_Excepciones_2
             {
                 Console.WriteLine("El valor asignado es demasiado grande para el tipo de dato");
             }
+            Console.ReadKey();
         }
     }
 }
