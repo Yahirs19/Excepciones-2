@@ -1,0 +1,7 @@
+C:\Users\Yahir\source\repos\Programa Excepciones-2\bin\Debug\Programa Excepciones-2.exe.config
+C:\Users\Yahir\source\repos\Programa Excepciones-2\bin\Debug\Programa Excepciones-2.exe
+C:\Users\Yahir\source\repos\Programa Excepciones-2\bin\Debug\Programa Excepciones-2.pdb
+C:\Users\Yahir\source\repos\Programa Excepciones-2\obj\Debug\Programa Excepciones-2.csproj.AssemblyReference.cache
+C:\Users\Yahir\source\repos\Programa Excepciones-2\obj\Debug\Programa Excepciones-2.csproj.CoreCompileInputs.cache
+C:\Users\Yahir\source\repos\Programa Excepciones-2\obj\Debug\Programa Excepciones-2.exe
+C:\Users\Yahir\source\repos\Programa Excepciones-2\obj\Debug\Programa Excepciones-2.pdb
